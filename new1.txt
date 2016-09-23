@@ -1,3 +1,4 @@
 Here is my new git file.
 I want to test some functions of Git.
 2016.9.23
+now I have a new version, this is the version2.
